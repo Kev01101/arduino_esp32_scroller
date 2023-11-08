@@ -1,6 +1,6 @@
 #include <FastLED.h>
 #include <WiFi.h>
-#include <HTTPClient.h>
+#include <HTTPClient.c>
 #include <ArduinoJson.h>
 #include <LEDMatrix.h>
 #include <LEDText.h>
